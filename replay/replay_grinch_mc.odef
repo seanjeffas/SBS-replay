@@ -32,3 +32,4 @@ variable bb.grinch.hit.xhit
 variable bb.grinch.hit.yhit
 variable bb.grinch.hit.time
 variable bb.grinch.hit.amp
+block bb.grinch.clus.*
